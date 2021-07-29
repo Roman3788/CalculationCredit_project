@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="sum_credit">Сумма кредита</string>
+    <string name="contribution">Первоначальный взнос</string>
+    <string name="interest_rate">Процентная ставка</string>
+    <string name="loan_terms">Срок кредитования</string>
+    <string name="type_of_payment">Вид платежей</string>
+    <string name="Annuit">Аннуитентные</string>
+    <string name="Diff">Дифференцированные</string>
+    <string name="Mes">мес</string>
+    <string name="Credit">Кредит</string>
+    <string name="Hypothec">Ипотека</string>
+    <string name="click_image_txt_1">При аннуитентном порядке погашения ежемесячные
+        выплаты равны в течении всего срока кредитования</string>
+    <string name="click_image_txt_2">При дифференцированном порядке погашения ежемесячные
+        выплаты уменьшаются в течении всего срока кредитования</string>
+
+    <string name="button_clear">Стереть</string>
+    <string name="button_calc">Рассчитать</string>
+    <string name="indicate__sum_credit">Укажите сумму кредита</string>
+    <string name="indicate_contribution">Укажите первоначальный взнос</string>
+    <string name="indicate_interest_rate">Укажите процентную ставку</string>
+    <string name="indicate_seek_bar">Укажите срок кредита</string>
+
+
+
+</resources>

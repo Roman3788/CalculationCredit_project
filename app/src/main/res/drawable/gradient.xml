@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    android:useLevel="false">
+
+    <gradient
+        android:angle="0"
+        android:type="linear"
+        android:startColor="#DFD9E8"
+        android:centerColor="#B5B58F"
+        android:centerX="@android:integer/config_longAnimTime"
+        android:centerY="@android:integer/config_shortAnimTime"
+        android:endColor="#B5A97B"
+
+
+        >
+
+    </gradient>
+
+
+</shape>
