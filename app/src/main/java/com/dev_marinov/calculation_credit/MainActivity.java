@@ -58,14 +58,7 @@ public class MainActivity extends AppCompatActivity implements SeekBar.OnSeekBar
 
     int radioCheck_credit_or_ipoteka = 0; // 0 - кредит, 1 - ипотека
 
-
-
-
-
-
     TextView textView_sum_credit; // переменная нужна только для получения default color textview, т.к. найти по другому код цвета не мог
-
-
 
     // метод инициализации всех объектов и переменных
     public void init() {
